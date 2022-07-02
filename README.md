@@ -4,6 +4,10 @@
 
 Buat nge run project
 
+## Desain Figma
+
+[Klik Disini ygy ](https://www.figma.com/file/IBXqig5Xubb2tKY55BWn9d/simple-web?node-id=2:13)
+
 ## How to clone until run?
 
 1. Salin link berikut `https://github.com/achmadrizky486/simple-web.git`
@@ -18,7 +22,3 @@ Buat nge run project
 ![enter image description here](https://github.com/achmadrizky486/simple-web/blob/main/public/Gambar%20Readme/Landing-page.jpg?raw=true)
 
 ![enter image description here](https://github.com/achmadrizky486/simple-web/blob/main/public/Gambar%20Readme/detail-page.jpg?raw=true)
-
-## Desain Figma
-
-[Klik Disini ygy ](https://www.figma.com/file/IBXqig5Xubb2tKY55BWn9d/simple-web?node-id=2:13)
